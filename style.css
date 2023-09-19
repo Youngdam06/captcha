@@ -1,0 +1,12 @@
+.container {
+    width: 55%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    box-shadow: 0 3px 20px  rgba(0, 0, 0, 3);
+    padding: 30px;
+}
+
+.static {
+    width: 50%;
+    margin-top: 100px;
+}
